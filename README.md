@@ -1,30 +1,15 @@
 # Red Labels for Pivotal Tracker
 
 This Chrome extension for Pivotal Tracker makes it very easy to see which of
-your stories are blocked for development.
+your stories are needing design.
 
-## Install the extension
-
-Red Labels is available on [Chrome][] and on [Firefox][].
+This is a fork of the orginal extension developed by Mike Kenyon, most of the credit goes to him.
 
 ## Taxonomy
 
-Any of these labels on stories will turn red:
-
-- blocked
-- needs <x>
-
-My teams often use `needs assets` or `needs design` to signal our product
-designer or `needs detail` to alert our product manager that their attention is
-required.
+Any of these labels on stories with the word design in them will turn purple.
 
 ## Future Work
 
-I know that everyone has their own preferred taxonomy. I don't have any plans to add an ugly Chrome extension customization form.
+It's perfect in every way.
 
-## License
-
-ISC License (included in the `LICENSE` file).
-
-[Chrome]: https://chrome.google.com/webstore/detail/red-labels-for-pivotal-tr/agijkohaieagbidlmjjlajhlkpfoegao?hl=en-US
-[Firefox]: https://addons.mozilla.org/en-US/firefox/addon/red-labels-for-pivotal-tracker/
