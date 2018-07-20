@@ -1,6 +1,6 @@
 {
   "name": "Design Labels for Pivotal Tracker",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
   "author": "Lundy Hartshorn",
   "description": "Highlights stories that have design labels added to them.",
