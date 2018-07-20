@@ -1,5 +1,5 @@
 .preview a.label.blocked {
-  background-color: hsl(349, 69%, 46%);
+  background-color: #8900C5;
   border-radius: 20px;
   color: white;
   margin: 0 2px;
@@ -10,11 +10,11 @@
 .full .blocked,
 .full .blocked ~ [data-aid="Label__RemoveButton"]
 {
-  background-color: hsl(349, 69%, 46%);
+  background-color: #8900C5;
 }
 
 .full .blocked:hover,
 .full .blocked ~ [data-aid="Label__RemoveButton"]:hover
 {
-  background-color: hsl(349, 69%, 32%);
+  background-color: #8900C5;
 }
