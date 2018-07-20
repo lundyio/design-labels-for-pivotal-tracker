@@ -1,4 +1,4 @@
-# Red Labels for Pivotal Tracker
+# Design Labels for Pivotal Tracker
 
 This Chrome extension for Pivotal Tracker makes it very easy to see which of
 your stories are needing design.
